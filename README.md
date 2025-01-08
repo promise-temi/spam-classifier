@@ -1,2 +1,2 @@
 # spam-classifier
-classifieur de détection automatique de spam.
+Classifieur de détection automatique de spam.
